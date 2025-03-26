@@ -1,4 +1,0 @@
-{
-  "version": "1.01",
-  "url": "https://github.com/salman5013/ShrimpCamPond3/main/firmware/firmware.bin"
-}
